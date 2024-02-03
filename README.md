@@ -10,13 +10,8 @@
 <!--
 **midoistory/midoistory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning JavaScript and Photoshop
-- 💬 Ask me about Design
 - ✨ How to reach me: 
 Instagram @midoistory
 YouTube Midori Harahap
-- 😃 Pronouns: omi
-- ⚡ Fun fact: i like green
+- ⚡ Fun fact: i love designs
 -->
